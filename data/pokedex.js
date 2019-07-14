@@ -51,7 +51,7 @@ let BattlePokedex = {
 		baseSpecies: "Venusaur",
 		forme: "Mega",
 		formeLetter: "M",
-		types: ["Grass", "Poison"],
+		types: ["Grass", "Fairy"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 80, atk: 100, def: 123, spa: 122, spd: 120, spe: 80},
 		abilities: {0: "Thick Fat"},
